@@ -76,7 +76,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"entry"
+                 "value":"#entry"
                 }],
          "type":"tilelayer",
          "visible":true,
